@@ -1,4 +1,4 @@
-# Financial-Portfolio-Generator
+# Portfolio Generator
 
 ### Developed by Ethan Misa, Timothy Zheng and Mark Gasior.
 
